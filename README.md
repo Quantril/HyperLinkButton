@@ -1,6 +1,6 @@
 # HyperLink Button PCF Control
 
-A Power Apps Component Framework (PCF) control that transforms URL fields into professional-looking buttons with enhanced user experience.
+A Power Apps Component Framework (PCF) control that transforms URL fields into professional-looking buttons with enhanced user experience. Replace your SingleLine.URL field with a clickable button.
 
 ## Features
 
